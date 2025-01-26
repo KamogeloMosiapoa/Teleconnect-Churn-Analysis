@@ -2,9 +2,14 @@
 
 ## Project Background and Overview
 
-Teleconnect is a fictious telecommunication company that specializes in voice communication, internet services, data transformation, streaming services, network infrastructure and everything that has to do with telecommunication, they play a huge role in connecting people and businesses enabling communication and data exchange. My contribution to the team is to identify churn customers, that is, customers most likely to cancel subscription and understand the underlying customer patterns that greatly impact their decision to churn and also predict customers most likely to cancel their subscription.
+Teleconnect is a fictious telecommunication company that specializes in voice communication, internet services, data transformation, streaming services, network infrastructure and everything that has to do with telecommunication, they play a huge role in connecting people and businesses enabling communication and data exchange.
 
-This project analyses customer data to track customer attrition rate and uncover insights that will the marketing team devise new customer retention strategies.
+The company has a significant number of churn records. My contribution to the team is to thoroughly analyse and identify churn customers, that is, customers most likely to cancel subscription and understand the underlying customer patterns that greatly impact their decision to churn and also predict customers most likely to cancel their subscription.
+
+Insights are provided in the following key areas:
+- Customer Demographics: Identify which customer segments (age, gender, location, etc.) have the highest churn rates.
+- Subscription Plans:
+- Determine if certain tenure groups or contract type are associated with higher churn
 
 ## Data Structure & Initial Checks
 
@@ -15,3 +20,4 @@ The dataset structure as seen below consists of 32 columns, with a total row cou
 Prior to beginning the analysis, a variety of checks were conducted fo quality control and familiarization with the dataset. The SQL queries utilized to inspect and perform quality checks and validation are found on the above folder labeled "Churn analysis EDA script".
 
 ## Executive Summary
+
