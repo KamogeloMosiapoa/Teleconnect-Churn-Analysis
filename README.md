@@ -12,9 +12,11 @@ Insights are provided in the following key areas:
 - Usage Patterns: Analyze how usage frequency, duration, and type of service impact churn
 - Predictive Modeling: Develop models to predict future churn and identify at-risk customers.
 
-An interactive Power BI dashboard can be downloaded [here](https://github.com/KamogeloMosiapoa/Teleconnect-Churn-Analysis/blob/main/Churn%20Analysis.pbix)
-The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/KamogeloMosiapoa/Teleconnect-Churn-Analysis/blob/main/Churn%20analysis%20%20EDA%20script..sql) 
-The python notebook for predictive analysis queries can be found [here](https://github.com/KamogeloMosiapoa/Teleconnect-Churn-Analysis/blob/main/Churn%20prediction.ipynb)
+An interactive Power BI dashboard can be downloaded [here](https://github.com/KamogeloMosiapoa/Teleconnect-Churn-Analysis/blob/main/Churn%20Analysis.pbix).
+
+The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/KamogeloMosiapoa/Teleconnect-Churn-Analysis/blob/main/Churn%20analysis%20%20EDA%20script..sql).
+
+The python notebook for predictive analysis queries can be found [here](https://github.com/KamogeloMosiapoa/Teleconnect-Churn-Analysis/blob/main/Churn%20prediction.ipynb).
 
 ## Data Structure & Initial Checks
 
